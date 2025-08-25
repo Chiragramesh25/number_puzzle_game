@@ -8,9 +8,9 @@ No Tutorials, No Login/Signups -> Direct Gameplay....
 ***
 To run this game on your system--->>
 --------------------------------
-git clone repository url 
-cd folder name 
-flutter pub get
+git clone repository url -->
+cd folder name -->
+flutter pub get -->
 flutter run.
 
 All the file structure you can understand it in the repository section. I've made it simple, not very complex at all.
